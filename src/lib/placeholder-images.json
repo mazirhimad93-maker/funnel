@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Cinematic AI/machine/futuristic visual for the hero section background.",
+      "imageUrl": "https://images.unsplash.com/photo-1676068646516-5eda1745a641?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmdXR1cmlzdGljJTIwYWJzdHJhY3R8ZW58MHx8fHwxNzcwNjgzNTk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "futuristic abstract"
+    },
+    {
+      "id": "what-is-poutreach",
+      "description": "AI infrastructure for the real world.",
+      "imageUrl": "https://images.unsplash.com/photo-1764983253036-edd0f55af679?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxBSSUyMGluZnJhc3RydWN0dXJlfGVufDB8fHx8MTc3MDc3OTE4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "AI infrastructure"
+    },
+    {
+      "id": "software-sales-automation",
+      "description": "Image for software sales automation card.",
+      "imageUrl": "https://images.unsplash.com/photo-1736134869040-1c1853bc23cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmdXR1cmlzdGljJTIwZGFzaGJvYXJkfGVufDB8fHx8MTc3MDc3OTE4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "futuristic dashboard"
+    },
+    {
+      "id": "software-business-automation",
+      "description": "Image for software business automation card.",
+      "imageUrl": "https://images.unsplash.com/photo-1763068795858-e3baee9f1bc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmdXR1cmlzdGljJTIwcHJvY2Vzc3xlbnwwfHx8fDE3NzA3NzkxODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "futuristic process"
+    },
+    {
+      "id": "software-ai-agents",
+      "description": "Image for software AI agents card.",
+      "imageUrl": "https://images.unsplash.com/photo-1720962158883-b0f2021fb51e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZnV0dXJpc3RpYyUyMFVJfGVufDB8fHx8MTc3MDc3OTE4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "futuristic UI"
+    },
+    {
+      "id": "robotics-drones",
+      "description": "Image for robotics drones.",
+      "imageUrl": "https://images.unsplash.com/photo-1664972127932-11907f25fd69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxkcm9uZSUyMGFncmljdWx0dXJlfGVufDB8fHx8fDE3NzA3NzgzNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "drone agriculture"
+    },
+    {
+      "id": "robotics-cars",
+      "description": "Image for autonomous cars.",
+      "imageUrl": "https://images.unsplash.com/photo-1685984350996-a4a4bc52f24b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YXV0b25vbW91cyUyMGNhcnxlbnwwfHx8fDE3NzA3MjY2Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "autonomous car"
+    },
+    {
+      "id": "robotics-tractors",
+      "description": "Image for autonomous tractors.",
+      "imageUrl": "https://images.unsplash.com/photo-1665207052678-2afe8653ab35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxyb2JvdGljJTIwdHJhY3RvcnxlbnwwfHx8fDE3NzA3NzgzNzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "robotic tractor"
+    },
+    {
+      "id": "robotics-industrial",
+      "description": "Image for industrial robots.",
+      "imageUrl": "https://images.unsplash.com/photo-1563968743333-044cef800494?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxyb2JvdCUyMGFybXxlbnwwfHx8fDE3NzA3NzI2NzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "robot arm"
+    }
+  ]
+}
